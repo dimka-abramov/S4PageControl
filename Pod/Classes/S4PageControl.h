@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 /**
- * S4IndicatorBlock is the defenition of callback method to draw indicator shape.
+ * S4IndicatorBlock is the definition of callback method to draw indicator shape.
  * @param current - flag which shows whether the indicator represent the current page
  * @param index - index of the current indicator
  * @param context - drawing context to draw the shape

@@ -1,0 +1,14 @@
+PODS:
+  - S4PageControl (0.0.1)
+
+DEPENDENCIES:
+  - S4PageControl (from `../`)
+
+EXTERNAL SOURCES:
+  S4PageControl:
+    :path: ../
+
+SPEC CHECKSUMS:
+  S4PageControl: 6ade3bd3485ed507a04e937cfe6cf7b4b3705f1b
+
+COCOAPODS: 0.35.0

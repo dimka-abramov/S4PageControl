@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'S4PageControl', :exclusive => true do
+  pod "S4PageControl", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "S4PageControl", :path => "../"
+
+  
+end
