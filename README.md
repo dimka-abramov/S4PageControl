@@ -1,6 +1,6 @@
 # S4PageControl
 
-This is a extension of UIPageControl, which gives possibility to change size, color and shape of page indicators
+This is an extension of UIPageControl, which gives possibility to change size, color and shape of page indicators
 
 [![Version](https://img.shields.io/cocoapods/v/S4PageControl.svg?style=flat)](http://cocoadocs.org/docsets/S4PageControl)
 [![License](https://img.shields.io/cocoapods/l/S4PageControl.svg?style=flat)](http://cocoadocs.org/docsets/S4PageControl)
